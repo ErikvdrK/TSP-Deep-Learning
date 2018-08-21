@@ -21,7 +21,9 @@ Optionally, the TSP tours that are found with the neural network are compared to
 
 ## Training
 - Instructions follow later  
-[//]: #(For a full description of how this, take a look at my thesis that is included in the ... folder.)
+<!---
+For a full description of how this, take a look at my thesis that is included in the ... folder.
+--> 
 
 ## Testing + Training Q-learning
 - Instructions follow later
