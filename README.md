@@ -2,7 +2,7 @@
 Repository for my thesis on "Combining Deep Learning with Local Search to Solve Combinatorial Optimization Problems"  
 This repository contains two neural networks to solve the Travelling Salesman Problem (TSP):
 - supervised_TSP.py: A supervised neural network
-- Q_leraning_TSP.py A Q-learning neural network.  
+- Q_learning_TSP.py A Q-learning neural network.  
 
 
 # Requirements
