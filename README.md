@@ -7,7 +7,9 @@ Q_leraning_TSP.py contains a Q-learning neural network for the TSP
 
 # Requirements
 Python 3
+
 Tensorflow 1.4+
+
 (Optional: LKH solver + Windows 7+)
 
 
