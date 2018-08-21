@@ -20,8 +20,8 @@ The "Trained network" folder contrains a pre-trained neural network. This neural
 Optionally, the TSP tours that are found with the neural network are compared to the optimal TSP tour. T makes comparisons with the optimal tour that is found with the LKH solver. This is only supported on Windows. 
 
 ## Training
-- Instructions follow later
-`For a full description of how this, take a look at my thesis that is included in the ... folder.`
+- Instructions follow later  
+ <> (For a full description of how this, take a look at my thesis that is included in the ... folder.)
 
 ## Testing + Training Q-learning
 - Instructions follow later
