@@ -8,7 +8,7 @@ This repository contains two neural networks to solve the Traveling Salesman Pro
 # Requirements
 Python 3  
 Tensorflow 1.4+  
-Numpy 
+Numpy  
 Optional: LKH solver & Windows 7+
 
 
