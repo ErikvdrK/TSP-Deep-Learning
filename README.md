@@ -43,5 +43,5 @@ TSP_figure_class.py: (Optional) Class that is used to show the progress of the n
 
 # Future plans
 For now, this repository is simply a dump of all code that was used for my thesis.
-Over the following weeks this repository will be updgraded to a more ready-to-use version with clear instructions.
+Over the following months this repository will be updgraded to a more ready-to-use version with clear instructions.
 
